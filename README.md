@@ -6,8 +6,7 @@ This project evaluates a wireless link at **868 MHz** by modifying key design pa
 ---
 
 ## 1. Plot Screenshot
-![RF Planning Plot](path/to/your/screenshot.png) 
-*(Note: Replace this placeholder with your actual uploaded image file name)*
+![RF Planning Plot](Screenshot_27-3-2026_165651_matlab.mathworks.com.jpeg) 
 
 ---
 
